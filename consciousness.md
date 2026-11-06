@@ -15,7 +15,7 @@
 Not everyone agrees. But the issue he raises, is real and can, should, and has been  examined in extraordinary detail. Here I share some of the arguments[^0.1], for and against.
 [^0.1]: Nothing I say here is original. I'll try and provide references but the sources of some of the ideas expressed here are long gone. Also, AI contributed nothing to the actual writing of this piece - writing gives me the chance to think, organise my thoughts. And I have far too much fun to leave it to an agent. (Think about it: SinceI have nothing new to say, why would I bother writing this if I don't have fun.)
 
-## Going back in time.
+## Preamble.
 
 > To delve into the subject of consciousness is to quickly discover how little we know about a phenomenon we all know so well.
 >
@@ -62,24 +62,55 @@ Perhaps there is a clue from this Epic as to the nature of human consciousness, 
 What is death but a loss of consciousness?
 :::
 
+Why does music and visual art have such a profound effect on my phsyce? But not poetry, another mystery. I, and many other mathematicians find aesthetic satisfaction in elegant proofs. Proofs straight from The Book as Paul Erdös[^1.3a] called them.
+[^1.3a]: The prolific Hungarian mathematician.
 
+:::{pull-quote}
+I have no idea why this might be so.
+:::
+
+I have a basic *understanding* of the mechanism of sound - vibrations in the air traveling as a wave to one's ear, stimulating the auditory cortex upon which further processing envokes a specific response in the listener. But why, in the words of David Chalmers,
+> Why should this be accompanied by an *experience*? And why in particular should it be accompanied by 
+> *that* experience, with its characteristic rich tone and timbre?
+>
+>-- @1996chalmers
+
+The renowned German pianist, Wilhelm Kempff, expressed something of this when he commented on Schubert's piano sonatas,
+> the immeasurable depths of Schubert’s soul, offering nothing for the out and out virtuoso and
+> everything for those who find solace in music freed from all material concerns.
+>
+>-- [Wilhelm Kempff](https://www.gramophone.co.uk/content/features/schubert-the-50-greatest-recordings#Echobox=1793765608)
+
+And, I believe, one can hear this in his interpretation of Schubert.
+
+Consciousness is not preserved in archaelogical records but perhaps there are indirect indications. 
+Archaeolicical records for musical practice go back a long time, to at least 40 000 BCE, in the remains of ancient [flutes](https://www.nationalgeographic.com/culture/article/bone-flute-is-oldest-instrument--study-says). A possible [Neanderthal](https://www.nms.si/en/collections/highlights/343-Neanderthal-flute) flute goes back even further in time. There is not telling if there were older, more perishable instruments not preserved in the archaelogicla record.
+
+These suggest two things. First, there is a genuine mystery associated with consciousness, something not explainable by present scientific theories. Second, consciousness, as we know it in humans, possibly goes back to the dawn of humankind.
 
 Now we have to dig deeper into this thing that we know so well, and yet so little. For that we have to turn to the philosophers.
 
-## "What is it like to be a bat?".
+## Philosophers.
+I'm not a philosopher but if there is any hope for me to understand this myterious thing we call consciousness, I have to turn to the philosophers. Let's see what some of them have to say about it
 
-This is the title of Thomas Nagel's @1074nagel hugely influential paper. In his paper he states that 
+### Thomas Nagel.
+
+"What is it like to be a bat?" This is the title of Thomas Nagel's @1974nagel hugely influential 1974 paper. Nagel thinks of consciousness as something it is like to *be* something:
 > the fact that an organism has conscious experience *at all* means, basically, that there is 
 > something it is like to *be* that organism. 
+>
+>-- @1974nagel
 
 Nagel calls this the subjective character of experience. He assumed that we all believe that bats have experience. Bats, after all are like mammals like ourselves. But unlike ourselves their sensory apparatus is vastly different from ours - "a fundamentally *alien* form of life". A really smart person understands that a bat perceives the world by echolocation, detecting objects by the reflections of their own high-frequency shrieks. That person will understand that the bat brain must be able to, somehow, correlate the outgoing pulses with the reflected pulses. And do it precisely and quickly. 
 
-The really smart person can understand the mechanics of all of this in minute detail, can even build his/her own sonar system. But no such person can *experience* what it is like to be a bat. The bat is unable to covey to a human what its exprience is as a bat. We can only surmise. As Nagel puts is
+The really smart person can understand the mechanics of all of this in minute detail, can even build his/her own sonar system. But no such person can *experience* what it is like to be a bat. The bat is unable to covey to a human what its exprience is as a bat. We can only surmise. As Nagel puts it
 
 > In so far as I can imagine this (which is not very far), it tells me only what it wouild be like for 
 > *me* to behave as a bat behaves. But that is not the question. I want to know what it is like for a 
 > *bat* to be a bat. yet if I try to imagine this, I am restricted to the resources of my own mind, and 
 > those resources are inadequate to the task.
+>
+>-- @1974nagel
 
 This paragraph suggest two things. First, that we can understand the experience of a bat, only within the framework of our own experience. Second, our experience is inadequate for the task.
 
@@ -90,16 +121,21 @@ This does not mean that I run into a blank wall trying to get "into the head"[^1
 > One respectable position is that whatever future neuroscience might reveal, the predictive 
 > and explanatory utility of folk-psychological concepts still remains, and rather impressively so.
 >
-> -- A.C. Grayling @2019grayling
+> -- @2019grayling
 
-[^1.4]: I recall attending a public lecture by Thomas Kuhn many years ago where he said that he tried to get into the head of Aristotle. Perhaps I finally understand what he meant, even if it is an impossible task.
+[^1.4]: I recall attending a public lecture by Thomas Kuhn many years ago, round about 1988, where he said that he tried to get into the head of Aristotle. Perhaps I now understand what he meant, even if it is an impossible task (as acknowledged by Kuhn).
 
-We have come a some way already. From trying to understand the experience of a not-too alien creature like a bat, to the consciousness of a close human partner. The next step is to try and understand our own consciousness. And here the real trouble starts: We have to understand our own consciousness using our consciousness. Is this even possible? Good question. Let's see what other philosophers say about it.
-
-
+We have come a some way already. From trying to understand the experience of a not-too alien creature like a bat, to the consciousness of a close human partner. The next step is to try and understand our own consciousness. And here the real trouble starts: We have to understand our own consciousness using our consciousness. Is this even possible? Good question. Let's see what David Chalmers say about it.
 
 
+### David Chalmers
 
+> Consciousness is the biggest mystery. It may be the largest outstanding obcstacle in our quest for
+> a scientific understanding the universe. 
+>
+>-- @1996chalmers
+
+Written in 1996 it remains largely true. Maybe one should ask, what makes consciousness so illusive?
 
 
 
