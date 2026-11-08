@@ -1,4 +1,6 @@
-# Consciousness
+# Have Machines Achieved Consciousness?
+
+The reader is forgiven if he/she expects a definite answer, "yes" or "no" to this question. In that case, the reader will be disappointed with my momentous conclusion, "it depends".
 
 [Geoffrey Hilton](https://futurism.com/artificial-intelligence/nobel-scientist-geoffrey-hinton-ai-conscious-toast) was quoted as saying,
 
@@ -12,10 +14,16 @@
 >
 >--  Geoffrey Hinton, October 2026.
 
-Not everyone agrees. But the issue he raises, is real and can, should, and has been  examined in extraordinary detail. Here I share some of the arguments[^0.1], for and against.
+Not everyone agrees with this. 
+
+But the issue he raises, is real and can, should, and has been  examined in extraordinary detail. 
+
+Here I share some of the arguments[^0.1] that led to my own, "it depends".
 [^0.1]: Nothing I say here is original. I'll try and provide references but the sources of some of the ideas expressed here are long gone. Also, AI contributed nothing to the actual writing of this piece - writing gives me the chance to think, organise my thoughts. And I have far too much fun to leave it to an agent. (Think about it: SinceI have nothing new to say, why would I bother writing this if I don't have fun.)
 
-## Preamble.
+Not everyone agrees with this either.
+
+## Introduction.
 
 > To delve into the subject of consciousness is to quickly discover how little we know about a phenomenon we all know so well.
 >
@@ -136,6 +144,46 @@ We have come a some way already. From trying to understand the experience of a n
 >-- @1996chalmers
 
 Written in 1996 it remains largely true. Maybe one should ask, what makes consciousness so illusive?
+
+Chalmers distinguishes between the "easy" and the "hard" problem of consciousness. The easy problem, 
+> How does the brain process environmental stimulation? How does it integrate information? 
+> How do we produce reports on internal states?
+The hard problem,
+> Why is all this processing accompanied by an experienced inner life?
+>
+>-- @1996chalmers
+
+The "easy" problem is by no means easy but at least it is accessible by  current scientific methods and important advances have been made by drawing from fields such as neuroscience. I was amazed  when I emerged after surgery with my consciousness fully intact. After all, it was switched off, thankfully, during surgery. Although I don't understand the technicalities and it therefore remain quite mysterious to me, specialists have a deep understanding of what happened to me under anesthesia. Or so I hope.
+
+The "hard" problem of consciousness is well, hard. Why can I wonder about my contemplation of my experienced inner feeling?  What happened when I sat in front of a Van Gogh painting - the real thing - and experienced emotions or impressions that are impossible for me to articulate? Even more so since I'm no painter, have zero talent, and no understanding of paintings in general. 
+
+Qualitative feelings like these are also known as phenomenal qualities, or *qualia* for short.
+> The problem of explaining these phenomenal qualities is just the problem of explaining
+> consciousness. This is the really hard part of the mind-body problem[^1.5].
+>
+>-- @1996chalmers
+
+[^1.5]: This is the problem that stumped Descartes, see @2019grayling.
+
+In order to address this mystery, Chalmers identifies three assumptions or constraints.
+1. He takes consciousness seriously. Meaning that consciousness is real as opposed to just an illusion.
+2. He takes science seriously. He "tries to keep my ideas compatible with contemporary
+science, but have not restricted [his] ideas to what contemporary scientists find fashionable".
+3. He "take[s] consciousness to be a natural phenomenon, falling under the sway of natural laws". He continues,
+    > This is not to say that the natural laws concerning consciousness will be just like laws 
+    > in other domains, or even that they will be physical laws. 
+    > They may be quite different in kind.
+
+Let's now turn to a few ideas of how to understand the hard problem.
+
+## Physicalism[^1.6]
+[^1.6]: The discussion in this section is based on @2019grayling
+
+Neither Nagel of Chalmers aim to give a detailed explantion of the nature of consciousness. Nagel highlights the challenge that any physical theory has to address. Chalmers is not much interested in presenting a theory of his own. He is more interested in picking existing and new theories apart. So far, he has been quite successful.
+
+*Physicalism* is not the only theory but is perhaps the most pertinent in an investigation of machine consciousness. 
+
+Physicalism is an attempt to explain how physical processes give rise to consciousness. The assumption is, of course, that consciousness indeed arises from physical processes. This is Chalmers' hard problem stated in a different way: How do the brain processes give rise to the mental processes?
 
 
 
