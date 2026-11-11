@@ -92,7 +92,7 @@ The renowned German pianist, Wilhelm Kempff, expressed something of this when he
 And, I believe, one can hear this in his interpretation of Schubert.
 
 Consciousness is not preserved in archaelogical records but perhaps there are indirect indications. 
-Archaeolicical records for musical practice go back a long time, to at least 40 000 BCE, in the remains of ancient [flutes](https://www.nationalgeographic.com/culture/article/bone-flute-is-oldest-instrument--study-says). A possible [Neanderthal](https://www.nms.si/en/collections/highlights/343-Neanderthal-flute) flute goes back even further in time. There is not telling if there were older, more perishable instruments not preserved in the archaelogicla record.
+Archaelocical records for musical practice go back a long time, to at least 40 000 BCE, in the remains of ancient [flutes](https://www.nationalgeographic.com/culture/article/bone-flute-is-oldest-instrument--study-says). A possible [Neanderthal](https://www.nms.si/en/collections/highlights/343-Neanderthal-flute) flute goes back even further in time. There is not telling if there were older, more perishable instruments not preserved in the archaelogicla record.
 
 These suggest two things. First, there is a genuine mystery associated with consciousness, something not explainable by present scientific theories. Second, consciousness, as we know it in humans, possibly goes back to the dawn of humankind.
 
@@ -100,6 +100,44 @@ Now we have to dig deeper into this thing that we know so well, and yet so littl
 
 ## Philosophers.
 I'm not a philosopher but if there is any hope for me to understand this myterious thing we call consciousness, I have to turn to the philosophers. Let's see what some of them have to say about it
+
+### Julian Jaynes
+Above I stated that consciousness, as we know it in humans, goes back to the dawn of humankind. Or does it? Not at all, says Julian Jaynes, (see @1976jaynes for a comprehensive exposition, @1988jaynes for a summary of his main ideas, or the [Julian Jaynes Society](https://www.julianjaynes.org/about/about-jaynes-theory/overview/) for his impact on today), consciousness is recent
+> all of this that is most human about us, this consciousness, this artificial space we imagine 
+> in other people and in ourselves, this living within our reminiscences, plans, and imaginings,
+> all of this is indeed only 3,000 years old.
+>
+>-- @1988jaynes
+
+ In @1988jaynes he discusses four main themes,
+1. The nature of consciousness and how it arises from the power of language to make metaphors and 
+   analogies. He argues, for example, that human beings can speak and understand, learn, solve problems, and do much that we do but without being conscious. 
+2. The bicameral mind. This is an early, pre-consciousness, type of mentality and bicameral man could
+   do much the we as conscious beings can do. The main difference was that bicameral man operated on auto-pilot,
+   > In his everyday life he was a creature of habit, but when some problem arose that needed a new 
+   > decision or a more complicated solution than habit could provide, that decision stress was 
+   > sufficient to instigate an auditory hallucination. Because such individuals had no mind-space 
+   > in which to question or rebel, such voices had to be obeyed.
+
+   Those voices, hallucinations, were the voices of their gods. Without this idea,
+   > there is a problem of explaining the origin of gods, the origin of religious practices in the
+   > back corridors of time that is so apparent with a psychological study of history. 
+   > The bicameral mind offers a possibility to tie it all together and to provide a rationale for it.
+3. Consciousness followed the bicameral mind, probably in the period 1400 BCE and 600 BCE. Jaynes argues 
+   that there is no indication of consciousness in the *Iliad*,
+   > It simply means that human mentality at this time was in two parts, a decision-making part 
+   > and a follower part, and neither part was conscious in the sense in which I have described 
+   > consciousness.
+
+4. The neurological model for the bicameral mind. Simply put, the two hemispheres of the brain 
+   reflect the modes of bicameral man, the decision-making part and the follower part.
+
+The main reason for this more detailed discussion is that it implies that I have to revisit my premises based on Gilgamesh and early music. Jaynes does not mention Gilgamesh, at least not in the publications I have seen, and Gilgamesh pre-dates the Ilyad by roughly 1 300 to 1 500 years. I venture to say that there are at least some indication of consciousness in the sense of the 'I' and personal struggles in Gilgamesh. 
+
+Jaynes's timeline is also interesting. He postulates that verbal hallucinations evolved with the evolution of language in the Neanderthal era, i.e. the bicamera era. I pointed out that the oldest extant musical instruments date from around this time. Those ancient flutes have keyholes an indication that were used to make music, as opposed say, to be whistle for signalling. An appreciation for music suggests to me the presence of an 'I', the presence of consciousness. 
+
+Be that as it may, Jaynes is not so easily dismissed.
+
 
 ### Thomas Nagel.
 
@@ -216,6 +254,10 @@ Since this is an *eliminative* theory, it also eliminates things like believe, h
 The problem of physicalst theories to explain qualia is known as the *explanatory gap*. Something that potentially can be filled in by further advances in neurology, as I pointed out above. There is also the possibility of an *ontological* gap, meaning that consciousness is not pysical.
 
 Daniel Dennett @2019grayling argues that there is not an explanatory gap and therefore not an ontological gap by denying the existence of qualia, they are a philosophical fiction. He points out that the brain is selective in the sense that it can only hold onto a few significant details at a time, out of necessity due to its limited capacity. I presume that the idea is that the brain has access to a large store of information but only what is pertinent to a specific situation bubbles up into the consciousness, otherwise it will become overstressed.
+
+Dennett's argument is rather neat: He explains the hard problem of Chalmers by denying that there is a problem to start with!
+
+## Anil Seth
 
 
 
