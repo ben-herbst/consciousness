@@ -1,3 +1,21 @@
+---
+abstract: |
+  Geoffrey Hinton has said that AI already has as much subjective experience
+  as we do, and that we owe it rights accordingly. Not everyone agrees. The
+  question is real either way, and it has been examined in extraordinary
+  detail; the answer offered here is "it depends".
+
+  The argument works through what little we know about a phenomenon we all
+  know intimately. It begins with the consciousness of mortality in the Epic
+  of Gilgamesh, then turns to Julian Jaynes, whose bicameral mind would place
+  consciousness only a few thousand years back and so cuts against that
+  starting point; to Thomas Nagel on what it is like to be a bat; to David
+  Chalmers on the hard problem; to physicalism; and to Anil Seth's case that
+  AI is not conscious and perhaps never will be.
+
+  Nothing here is original, and no part of it was written by an AI.
+---
+
 # Have Machines Achieved Consciousness?
 
 The reader is forgiven if he/she expects a definite answer, "yes" or "no" to this question. In that case, the reader will be disappointed with my momentous conclusion, "it depends".

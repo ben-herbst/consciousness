@@ -1,5 +1,8 @@
 # MyST build outputs
 _build
 
+# The PDF export writes to the repository root, not into _build/
+consciousness.pdf
+
 # macOS
 .DS_Store
