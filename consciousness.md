@@ -88,6 +88,16 @@ Perhaps there is a clue from this Epic as to the nature of human consciousness, 
 What is death but a loss of consciousness?
 :::
 
+```{figure} ./figures/flutes.jpg
+---
+:alt: Alt text
+:width: 400px
+:align: right
+:class: bg-primary
+---
+Flutes from around 40 000 BCE.
+```
+
 Why does music and visual art have such a profound effect on my phsyce? But not poetry, another mystery. I, and many other mathematicians find aesthetic satisfaction in elegant proofs. Proofs straight from The Book as Paul Erdös[^5] called them.
 [^5]: The prolific Hungarian mathematician.
 
@@ -116,8 +126,18 @@ These suggest two things. First, there is a genuine mystery associated with cons
 
 Now we have to dig deeper into this thing that we know so well, and yet so little. For that we have to turn to the philosophers.
 
+```{figure} ./figures/neanderthal.jpeg
+---
+:alt: Neanderthal
+:width: 400px
+:align: left
+:class: bg-primary
+---
+A Neanderthal flute of around 50 000 BCE.
+```
+
 ## Philosophers.
-I'm not a philosopher but if there is any hope for me to understand this myterious thing we call consciousness, I have to turn to the philosophers. Let's see what some of them have to say about it
+I'm not a philosopher but if there is any hope for me to understand this myterious thing we call consciousness, I have to turn to the philosophers. Let's see what some of them have to say about it.
 
 ### Julian Jaynes
 Above I stated that consciousness, as we know it in humans, goes back to the dawn of humankind. Or does it? Not at all, says Julian Jaynes, (see @1976jaynes for a comprehensive exposition, @1988jaynes for a summary of his main ideas, or the [Julian Jaynes Society](https://www.julianjaynes.org/about/about-jaynes-theory/overview/) for his impact on today), consciousness is recent
