@@ -38,7 +38,19 @@ jobs:
       - name: Install MyST
         run: npm install -g mystmd
       - name: Build HTML Assets
-        run: myst build --html
+        # Temporary diagnostic wrapper. Actions logs are only readable with an
+        # authenticated token, so a failure here shows up as nothing more than
+        # "Process completed with exit code 1". Echoing the tail of the output
+        # as ::error:: turns it into a check annotation, which is readable
+        # without auth. Revert to the plain `myst build --html` once the
+        # current failure is understood.
+        run: |
+          set -o pipefail
+          echo "node $(node --version), myst $(myst --version)"
+          if ! myst build --html 2>&1 | tee /tmp/build.log; then
+            echo "::error::BUILD FAILED: $(tail -c 2000 /tmp/build.log | tr '\n' '§')"
+            exit 1
+          fi
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
