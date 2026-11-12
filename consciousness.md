@@ -89,12 +89,11 @@ What is death but a loss of consciousness?
 :::
 
 ```{figure} ./figures/flutes.jpg
----
-:alt: Alt text
+:alt: Bone flutes from around 40 000 BCE
 :width: 400px
 :align: right
 :class: bg-primary
----
+
 Flutes from around 40 000 BCE.
 ```
 
@@ -127,12 +126,11 @@ These suggest two things. First, there is a genuine mystery associated with cons
 Now we have to dig deeper into this thing that we know so well, and yet so little. For that we have to turn to the philosophers.
 
 ```{figure} ./figures/neanderthal.jpeg
----
-:alt: Neanderthal
+:alt: A Neanderthal flute of around 50 000 BCE
 :width: 400px
 :align: left
 :class: bg-primary
----
+
 A Neanderthal flute of around 50 000 BCE.
 ```
 
