@@ -91,10 +91,10 @@ What is death but a loss of consciousness?
 ```{figure} ./figures/flutes.jpg
 :alt: Bone flutes from around 40 000 BCE
 :width: 400px
-:align: right
+:align: left
 :class: bg-primary
 
-Flutes from around 40 000 BCE.
+Bone flutes from around 40 000 BCE.
 ```
 
 Why does music and visual art have such a profound effect on my phsyce? But not poetry, another mystery. I, and many other mathematicians find aesthetic satisfaction in elegant proofs. Proofs straight from The Book as Paul Erdös[^5] called them.
