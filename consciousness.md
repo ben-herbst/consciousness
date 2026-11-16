@@ -1,19 +1,8 @@
 ---
 abstract: |
-  Geoffrey Hinton has said that AI already has as much subjective experience
-  as we do, and that we owe it rights accordingly. Not everyone agrees. The
-  question is real either way, and it has been examined in extraordinary
-  detail; the answer offered here is "it depends".
-
-  The argument works through what little we know about a phenomenon we all
-  know intimately. It begins with the consciousness of mortality in the Epic
-  of Gilgamesh, then turns to Julian Jaynes, whose bicameral mind would place
-  consciousness only a few thousand years back and so cuts against that
-  starting point; to Thomas Nagel on what it is like to be a bat; to David
-  Chalmers on the hard problem; to physicalism; and to Anil Seth's case that
-  AI is not conscious and perhaps never will be.
-
-  Nothing here is original, and no part of it was written by an AI.
+  Have machines achieved consciousness? Geoffrey Hinton says, yes, without a doubt. Others are less sure. The question however, is legit and deserves further scrutiny. 
+  
+  I'll try to motivate why it is hard for me to come up with a definitive answer. 
 ---
 
 # Have Machines Achieved Consciousness?
@@ -50,26 +39,71 @@ Not everyone agrees with this either.
 It is unsurprising that the oldest known literary text deals with consciousness. Around 1200 BCE a Mesopotamian scribe, scholar and priest, Sin-leqi-unninni compiled the Epic of Gilgamesh from much older cuneiform fragments into a coherent epic. The first thing that strikes one upon reading this, is the the sophistication with which the all too-human struggles of the god-king Gilgamesh is described[^2]. The profound human aspect of the consciousness of human mortality is all too-familiar.
 [^2]: Beautifully explained by Andrew George @2017george.
 
-Gilgamesh  most likely lived around 2700 BCE as a legendary ruler of the city-state of Uruk. The eleventh and final tablet describes the well-known flood text. But that is the culmination of what goes before[^3].
+```{figure} ./figures/epic-xi.jpg
+:alt: The flood tablet
+:width: 400px
+:align: left
+:class: bg-primary
 
-> Thus, the epic ceased to be a mere relic and became a dialogue across millennia; we find not strangers in the cuneiform, but a lineage of ancestors wrestling with the same confrontation with mortality 
+The flood tablet from the Epic of Gilgamesh.
+```
+
+Gilgamesh  most likely lived around 2700 BCE as a legendary ruler of the city-state of Uruk, two-thirds god, one-third human. The eleventh and final tablet describes the well-known flood text. But that is the culmination of what goes before. Gilgamesh is a tyrant that brutally oppresses his subjects. So badly that the gods did what gods do, they called a council and decided that Gilgamesh needs a companion. Not any companion but the wild one, Enkidu, he who lives with the animals and eat grass. After his seduction by a temple prostitute, Enkidu is reformed, the animals reject him and the prostitute introduces him to Gilgamesh. After a titanic battle between the two that shook the foundation of Uruk, the two men became inseparable. Gilgamesh is humanized.
+
+> Mighty Gilgamesh came on and Enkidu met him at the gate. He put out his foot and prevented Gilgamesh from entering the house,
+> so they grappled, holding each other like bulls locked together. They broke the doorposts and the walls shook. Gilgamesh bent
+> his knee with his foot planted on the ground and with a turn Enkidu was thrown. Then immediately his fury died. When 
+> Enkidu was thrown, he said to Gilgamesh, 'There is no other like you in the world. Ninsun, who is as strong as an ox in the 
+> byre, she was the mother who bore youand now you are raised above all men, and Enlil has given you the kingship, 
+> for your strength surpasses the strength of men'.
 >
-> The fear of death, however, is not the only theme that drives the epic. It is closely intertwined with the theme of friendship for it is through the loss of the friend that the fear becomes real. 
-> Enkidu is the mirror image of Gilgamesh, the wild man who is civilized, the other self who allows the hero to know homself. Without Enkidu, Gilagemesh is merely a tyrant, a brute who 
-> oppresses his subjects and abuses his power. It is the bonding of these two figures that humanizes Gilgemesh and makes his subsequent grief meaningful.
+>--  @1972sandars
+
+After many adventures together, Ishtar[^3]
+> lifted her eyes, seeing the beauty of Gilgamesh. She said, 'Come to me Gilgamesh, and be my bridegroom; grant me seed of 
+> your body, let me be you bride and you will be my husband'.
+> 
+> Gilgamesh opened his mouth and answered glorious Ishtar, 'If I take you in marriage, what gifts can I give in return?
+> What ointments and clothing for you body? I would gladly give you bread and all sorts of food fit for a god; but as for 
+> making you my wife - that I will not. How would it go with me? ... Which of you lovers did you ever loved for ever?'
+> 
+> When Ishtar heard this she fell into a bitter rage, she went up to high heaven. Her tears pured down in front of her father 
+> Anu, and Antum her mother. She said, 'My father, Gilgamesh has heaped insults on me, he has told over all my abonimable 
+> behaviour, my foul and hideous acts'. 
 >
-> [When Enkidu died, Gilgamesh] does note merely mourn the loss of a companion; he mourns the loss of himself.
+>-- @1972sandars
+
+[^3]: The Sumerian Inanna, the goddess of love and ferility, also the goddess of war. Not someone to trifle with.
+
+So Anu gave her the Bull of Heaven to destroy Gilgamesh and Enkidu. Instead, Gilgamesh and Enkidu killed the Bull of Heaven. Ishtar was not happy and for their digressions Enkidu had to die. And gilgamesh wept over Enkidu.
+```
+Hear me great ones of Uruk,
+I weep for Enkidu, my friend,
+Bitterly moaning like a woman mourning
+I weep for my brother,
+You were the ax at my side,
+My hand's strength, the sword in my belt,
+The shild before me,
+A glorious robe, my fairest ornament;
+An evil fate has robbed me.
+```
+>-- @1972sandars
+
+
+Desparate to find immortality for himself, Gilgamesh sets off to find Utnapishtim[^4], the only survivor of the great flood and the only human ever granted immortality by the gods. Eventually all in vain, as he learned from Utnapshtim, 
+> There is no permanence. Do we build a house to stand forever, do we seal a contract to hold for all time? Do brothers 
+> divide an inheritance to keep for ever, does the flood time of rivers endure?
+> 
+> When the Anunnaki, the judges, come together, and Mammetum the mother of destinies, together they decree the fates of man.
+> Life and death they allot but the day of death they do not disclose.
 >
->-- Harold Carver @2026carver.
+> @1972sandars
 
-[^3]: This book, and author, quoted here is suspect. There is every indication that it is AI slop with the purported author not even taking the trouble to proofread the product that appears under his name. For this quote I was able to verifiy from independent sources that the gist of it is correct. Everything else in the book is suspect until verified. 
+Gilgamesh is forced to accept that mortality is to be accepted with dignity.
 
-In the final tablet, Gilgamesh sets off to find Utnapishtim[^4], the only survivor of the great flood and the only human ever granted immortality by the gods, to find imortality for himself. When this is ultimately unsuccessful, Gilgamesh is forced to accept that mortality is to be accepted with dignity.
-[^4]: This is Noah of the Biblical event.  Utnapishtim, the sole survivor of the flood thousands of years ago, was the only human being granted imortality by the gods. This was out of desperation of what to do with him after the flood, a once-off and not a way out for Gilgamesh, see Andrew George @2017george.
+[^4]: This is Noah of the Biblical flood.  Utnapishtim, the sole survivor of the flood thousands of years ago, was the only human being granted imortality by the gods. This was out of desperation of what to do with him after the flood, a once-off and not a way out for Gilgamesh, see Andrew George @2017george.
 
-If this is a dark view of the human condition, it is not altogether pessimistic. 
-
-After his return to Uruk, the poem ends with the passage,:
+The Epic is not altogether pessimistic. Gilgamesh was remembered for his deeds,
 
 > O Ur-shanabi, climb Uruk's wall and walk back and forth!
 >Survey its foundations, examine the brickwork!
@@ -81,8 +115,10 @@ After his return to Uruk, the poem ends with the passage,:
 >
 >-- Andrew George @2017george
 
+Immortality not through brick and monuments, but through text.
 
-Perhaps there is a clue from this Epic as to the nature of human consciousness, why mortality presses so heavily on the human psyche. And what that tells us about the possibility of human-like consciousness in machines. 
+
+It is hard to imagine that the hero's of this epic have not self-awareness, no notion of their 'self'.
 
 :::{pull-quote}
 What is death but a loss of consciousness?
