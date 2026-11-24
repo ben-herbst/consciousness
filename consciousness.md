@@ -531,7 +531,7 @@ Then there is the temptation of the 'techno-rapture'.
 >-- @2026seth
 
 This idea is pervasive in Silicon Valley[^13].
-[^13]: Need citations.
+[^13]: Seth makes the connection himself, immediately after the passage quoted above: pronouncements of imminent machine consciousness 'seem more common within the technorati than outside of it', and the idea that there is something 'semi-magical' about AI may help 'justify the sky-high salaries and levels of investment now seen in Silicon Valley' [@2026seth]. For a first-hand account of transhumanists' hopes of escaping death through technology, see @2017oconnell.
 
 Despite and independent of our biases, how likely is it that AI will develop consciousness? Not very likely, according to Seth. 
 
