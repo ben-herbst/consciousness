@@ -1,33 +1,33 @@
 ---
 title: Has AI Achieved Consciousness?
 abstract: |
-  Has AI achieved consciousness? Geoffrey Hinton says, yes, without a doubt. Others are less sure. The question however, is legit and deserves further scrutiny. 
+  Has AI achieved consciousness? Geoffrey Hinton says yes, without a doubt. Others are less sure. The question, however, is legit and deserves further scrutiny. 
   
   I'll try to motivate why it is hard to come up with a definitive answer. 
 ---
 
 # Preamble
 
-The reader is forgiven if he/she expects a definite answer, "yes" or "no" to this question. In that case, expect to be disappointed with my momentous conclusion, 'I don't know'.
+The reader is forgiven if he/she expects a definite answer, "yes" or "no", to this question. In that case, expect to be disappointed with my momentous conclusion, 'I don't know'.
 
 [Geoffrey Hinton](https://futurism.com/artificial-intelligence/nobel-scientist-geoffrey-hinton-ai-conscious-toast) was quoted as saying,
 
->  AI has just as much subjective experience as we do. A recent paper showed AI changes its behavior when it thinks that it's being tested, it's aware it is being tested.
+> AI has just as much subjective experience as we do. A recent paper showed AI changes its behavior when it thinks that it's being tested, it's aware it is being tested.
 >
 > Now, normally, when you say something's aware of that, that means it's conscious. Being conscious and being aware are pretty much the same thing.
 >
-> If that's the case,  then it's hypocritical of us to give intelligent beings like AI fewer rights than us. And for that, we must quickly atone.
+> If that's the case, then it's hypocritical of us to give intelligent beings like AI fewer rights than us. And for that, we must quickly atone.
 >
 > We should make them so they really care about us. And if we don't do that, we're toast.
 >
->--  Geoffrey Hinton, October 2026.
+>-- Geoffrey Hinton, October 2026.
 
 Not everyone agrees with this. 
 
 But the issue he raises is real and can be, should be, and has been examined in extraordinary detail. 
 
 Here I share some of the arguments[^1] that led to my own, "I don't know".
-[^1]: Nothing I say here is original. I'll try and provide references but the sources of some of the ideas expressed here are long gone. Also, AI contributed nothing to the actual writing of this piece. Wrestling with the text  gives me the chance to think and organise my thoughts. And I have far too much fun to leave it to an agent.
+[^1]: Nothing I say here is original. I'll try and provide references but the sources of some of the ideas expressed here are long gone. Also, AI contributed nothing to the actual writing of this piece. Wrestling with the text gives me the chance to think and organise my thoughts. And I have far too much fun to leave it to an agent.
 
 
 # Going back in history
@@ -38,9 +38,9 @@ Consciousness is at once the most familiar thing in the world and the most myste
 >
 >-- @1996chalmers
 
-These are the introductory words of David Chalmers in his classic work on consciousness. Not only is it the best known, most mysterious phenomenon we are aware of, an awareness of consciousness goes back a long, long time.
+These are the introductory words of David Chalmers in his classic work on consciousness. Not only is it the best known and most mysterious phenomenon we are aware of, but an awareness of consciousness also goes back a long, long time.
 
-The oldest known literary text, the Epic of Gilgamesh,  gives us a glimpse of the *experienced inner life* of the main protagonists, Gilgamesh and Enkidu. We live with them through adventures, friendship,  love and lust and rejection, disappointment, empathy, bravery and cowardice. With Gilgamesh we are upset and defiant facing human mortality, and in the end, acceptance and resignation. These topics are thoroughly modern, yet go back to about 1200 BCE when a Mesopotamian scribe, scholar and priest, Sin-leqi-unninni compiled the Epic of Gilgamesh into a coherent epic from even older cuneiform fragments[^2].
+One of the oldest known literary texts, the Epic of Gilgamesh, gives us a glimpse of the *experienced inner life* of the main protagonists, Gilgamesh and Enkidu. We live with them through adventures, friendship, love and lust and rejection, disappointment, empathy, bravery and cowardice. With Gilgamesh we are upset and defiant facing human mortality, and in the end, acceptance and resignation. These topics are thoroughly modern, yet go back to about 1200 BCE when a Mesopotamian scribe, scholar and priest, Sin-leqi-unninni, compiled the Epic of Gilgamesh into a coherent epic from even older cuneiform fragments[^2].
 [^2]: Beautifully explained by Andrew George [@2017george].
 
 ```{figure} ./figures/epic-xi.jpg
@@ -52,7 +52,7 @@ The oldest known literary text, the Epic of Gilgamesh,  gives us a glimpse of th
 The flood tablet from the Epic of Gilgamesh.
 ```
 
-Gilgamesh as a historical figure, most likely lived around 2700 BCE as a legendary ruler of the city-state of Uruk, two-thirds god, one-third human. The culmination of the epic poem is described on the eleventh tablet where, in search of immortality, Gilgamesh meets Utnapishtim[^3], the sole survivor of the flood and the only human ever granted immortality by the gods. Long before that, we meet Gilgamesh as the brutal ruler and tyrant of Uruk. When the citizens of Uruk lamented to the gods, they cried out,
+Gilgamesh, as a historical figure, most likely lived around 2700 BCE as a legendary ruler of the city-state of Uruk, two-thirds god, one-third human. The culmination of the epic poem is described on the eleventh tablet where, in search of immortality, Gilgamesh meets Utnapishtim[^3], the sole survivor of the flood and the only human ever granted immortality by the gods. Long before that, we meet Gilgamesh as the brutal ruler and tyrant of Uruk. When the citizens of Uruk lamented to the gods, they cried out,
 > 'A goddess made him, strong as a savage bull, none can withstand his arms.
 > No son is left with his father, for Gilgamesh takes them all; and is this the king, the shepherd of his people?
 > His lust leaves no virgin to her lover, neither the warrior's daughter nor the wife of the noble'.
@@ -69,7 +69,7 @@ Gilgamesh as a historical figure, most likely lived around 2700 BCE as a legenda
 Enkidu lived with the wild animals and ate grass with them, pure and unspoiled. 'He was innocent of mankind'. When Gilgamesh learned of Enkidu, he sent a harlot: 
 > At the drinking hole she will strip and when he sees her beckoning he will embrace her and the wilderness will surely reject him
 
-So it turned out to be and afterwards he tried to go back to the wild beasts,
+So it turned out to be, and afterwards he tried to go back to the wild beasts,
 > Then, when the gazelle saw him, they bolted away; and when the wild creatures saw him they fled. 
 > Enkidu would have followed, but his body was bound as though with a cord, his knees gave way when he started to run, 
 > his swiftness was gone. And now the wild creatures had all fled away; Enkidu was grown weak, for wisdom was in him and 
@@ -90,7 +90,7 @@ When Gilgamesh tried to enter the house, Enkidu blocked his way.
 > byre, she was the mother who bore you and now you are raised above all men, and Enlil has given you the kingship, 
 > for your strength surpasses the strength of men'.
 >
->--  @1972sandars
+>-- @1972sandars
 
 Gilgamesh and Enkidu became inseparable, fighting and defeating the mighty Humbaba, a ferocious giant.
 > When he roars it is like the torrent of the storm.
@@ -112,11 +112,11 @@ As Gilgamesh cleanses himself after the battle, glorious Ishtar[^4]
 >
 >-- @1972sandars
 
-[^3]: This is likely Noah of the Biblical flood.  Utnapishtim, the sole survivor of the flood thousands of years ago, was the only human being granted immortality by the gods. This was out of desperation of what to do with him after the flood, a once-off and not a way out for Gilgamesh, see Andrew George [@2017george].
+[^3]: Utnapishtim is the Mesopotamian counterpart of Noah in the Biblical flood story. He, the sole survivor of the flood thousands of years ago, was the only human being granted immortality by the gods. This was out of desperation over what to do with him after the flood, a once-off and not a way out for Gilgamesh, see Andrew George [@2017george].
 
 [^4]: The Sumerian Inanna, the goddess of love and fertility, also the goddess of war. Not someone to trifle with.
 
-So Anu gave her the Bull of Heaven with the idea to destroy Gilgamesh. Instead, Gilgamesh and Enkidu killed the Bull of Heaven. Ishtar, scorned, flew into a rage and called a curse on Enkidu who, after suffering greatly, died. And Gilgamesh wept over Enkidu:
+So Anu gave her the Bull of Heaven with the idea to destroy Gilgamesh. Instead, Gilgamesh and Enkidu killed the Bull of Heaven. Ishtar, scorned, flew into a rage and cursed Gilgamesh, and the gods decreed that Enkidu must die. After suffering greatly, he died. And Gilgamesh wept over Enkidu:
 ```
 Hear me great ones of Uruk,
 I weep for Enkidu, my friend,
@@ -145,7 +145,7 @@ But Utnapishtim had little to offer,
 >
 >-- @1972sandars
 
-In the final instance, Gilgamesh was forced to accept his bodily mortality with dignity. But there was a glimmer of hope, Gilgamesh's legacy was inside Uruk, what he built, what he restored. And that was quite something, as he proudly instructed Ur-shanabi, his guide for his journey to Utnapishtim,
+In the final instance, Gilgamesh was forced to accept his bodily mortality with dignity. But there was a glimmer of hope: Gilgamesh's legacy was inside Uruk, what he built, what he restored. And that was quite something, as he proudly instructed Ur-shanabi, his guide for his journey to Utnapishtim,
 > O Ur-shanabi, climb Uruk's wall and walk back and forth!
 > Survey its foundations, examine the brickwork!
 > Were its bricks not fired in an oven!
@@ -174,7 +174,7 @@ What is death but a loss of consciousness?
 Bone flutes from around 40 000 BCE.
 ```
 
-Why do music and visual art have such a profound effect on my psyche? But not poetry, another mystery. I, and many other mathematicians find aesthetic satisfaction in elegant proofs. Proofs straight from The Book as Paul Erdős[^5] called them.
+Why do music and visual art have such a profound effect on my psyche? But not poetry, another mystery. I, and many other mathematicians, find aesthetic satisfaction in elegant proofs. Proofs straight from *The Book*, as Paul Erdős[^5] called them.
 [^5]: The prolific Hungarian mathematician.
 
 :::{pull-quote}
@@ -196,9 +196,9 @@ The renowned German pianist, Wilhelm Kempff, expressed something of this when he
 And, I believe, one can hear this in his interpretation of Schubert.
 
 Consciousness is not preserved in archaeological records but perhaps there are indirect indications. 
-Archaeological records for musical practice go back a long time, to at least 40 000 BCE, as the remains of ancient [flutes](https://www.nationalgeographic.com/culture/article/bone-flute-is-oldest-instrument--study-says). A possible [Neanderthal](https://www.nms.si/en/collections/highlights/343-Neanderthal-flute) flute goes back even further in time. There is no telling if there were older, more perishable instruments not preserved in the archaeological record. 
+Archaeological records for musical practice go back a long time, to at least 40 000 BCE, as the remains of ancient [flutes](https://www.nationalgeographic.com/culture/article/bone-flute-is-oldest-instrument--study-says) show. A possible [Neanderthal](https://www.nms.si/en/collections/highlights/343-Neanderthal-flute) flute goes back even further in time. There is no telling if there were older, more perishable instruments not preserved in the archaeological record. 
 
-These suggest two things. First, there is a genuine mystery associated with consciousness, something not explainable by present scientific theories. Second, consciousness, as we know it in humans, possibly goes back to the dawn of humankind. Consciousness, however, is not preserved in archaeological records and when humans first became aware of themselves, and started thinking about this self, this inner experience, will never be known.
+These suggest two things. First, there is a genuine mystery associated with consciousness, something not explainable by present scientific theories. Second, consciousness, as we know it in humans, possibly goes back to the dawn of humankind. Consciousness, however, is not preserved in archaeological records, and when humans first became aware of themselves, and started thinking about this self, this inner experience, will never be known.
 
 Incidentally, I've made no attempt to define consciousness - it might not even be possible. Don't worry, I'll have more to say later on. For now, what you experience as consciousness is perfectly fine.
 
@@ -218,11 +218,11 @@ If there is one thing we can be sure of, it is that we are conscious beings. Ren
 > Even if I doubt everything I normally take myself to know or to believe, I cannot doubt that I exist. 
 > This is the starting point of certainty.
 
-But how does one proceed from this inner world to the outside world with certainty? This gives rise to a fundamental question that has reverberated ever since the time of Descartes, the mind-body problem. Descartes argued that everything that exists in the world falls either under the heading of a material substance or a mental substance. This is the central question, one that Descartes never answered convincingly. A question that will show up in different guises in my subsequent discussion.
+But how does one proceed from this inner world to the outside world with certainty? This gives rise to a fundamental question that has reverberated ever since the time of Descartes, the mind-body problem. Descartes argued that everything that exists in the world falls either under the heading of a material substance or a mental substance. How the two interact is the central question, one that Descartes never answered convincingly. A question that will show up in different guises in my subsequent discussion.
 
 This inner experience that there is something in there, the awareness, 'cogito, ergo sum', is a respectable first stab to get to grips with the concept of consciousness. David Chalmers [@1996chalmers] treats consciousness as an irreducible primitive on the same footing as matter and space. This, of course, does not mean that these primitives are not open to analysis.
 
-The one reason why we know a lot about consciousness is that all of us are *aware* of our inner experiences. Since we have, if you like, the 'data' from which to learn more, we can do so. But a note of caution, we have limited access to the consciousness data of others; the data is mainly from within ourselves. Coming from where I do, the data is *biased*. Indeed, someone, and I don't remember who, talked about *professorial consciousness* which has nothing to do with actually being a *professor*. It means that those who are inclined to think about these things probably have a certain mindset.
+One reason why we know a lot about consciousness is that all of us are *aware* of our inner experiences. Since we have, if you like, the 'data' from which to learn more, we can do so. But a note of caution: we have limited access to the consciousness data of others; the data is mainly from within ourselves. Coming from where I do, the data is *biased*. Indeed, someone, and I don't remember who, talked about *professorial consciousness* which has nothing to do with actually being a *professor*. It means that those who are inclined to think about these things probably have a certain mindset.
 
 The following are some of the ideas that come to mind, by no means unique to my thinking about consciousness:
 
@@ -230,13 +230,13 @@ The following are some of the ideas that come to mind, by no means unique to my 
 * All current entities that we think of as being conscious, or that have the potential of being conscious, are biological. 
   We do not think, for example, that a teaspoon is conscious. This, of course, does not guarantee that *only* biological systems can be conscious, and at least leaves the option open that computational systems can become conscious or, perhaps, already are conscious.
 * Consciousness is a personal, private experience. I listen intently to music a lot. Music that is 
-  generally but inaccurately described as *classical* music. Some of my friends also listen to music a lot but my kind of music does not elicit the same type of experience as it does for me. I recently read Hemingway's The Old Man and the Sea. At some point I had to stop reading, despite the fact that it is no doubt a great literary work. The problem is that somehow I identify with the magnificent brave animal that puts up such a heroic fight. Eventually to be destroyed. I believe I would have cut the line and let it free. In this I'm probably on my own and I cannot begin to explain where it comes from. I tried.
+  generally but inaccurately described as *classical* music. Some of my friends also listen to music a lot, but my kind of music does not elicit in them the same type of experience as it does in me. I recently read Hemingway's *The Old Man and the Sea*. At some point I had to stop reading, despite the fact that it is no doubt a great literary work. The problem is that somehow I identify with the magnificent brave animal that puts up such a heroic fight. Eventually to be destroyed. I believe I would have cut the line and let it free. In this I'm probably on my own and I cannot begin to explain where it comes from. I tried.
 * Consciousness can be manipulated. It can be altered through drugs, or even turned off completely. Recovering from anaesthesia, 
   I was amazed (and pleased!) that I regained complete consciousness, no adverse effects. Was there any reason to expect that this should be the case? Apart from the fact that experience has taught us that anaesthesia is safe. Consciousness seems to be quite robust.
-* There is possibly another way how one's consciousness forms and that is through the impressions we constantly absorb. 
+* There is possibly another way in which one's consciousness forms, and that is through the impressions we constantly absorb. 
   The discussions one has, the books one reads, the experiences of both the mental and physical kind, all work together to form a personal consciousness, including biases.
 * Consciousness is selective. It is not something that is complete as a single entity, a complete picture experienced as a whole.
-  Instead it is selective, only the relevant bubbles up from some kind of background as needed. It is perhaps, *instantiated* according to the occasion. This is inevitable, a way to cope with our limitations in capacity as well as bandwidth. Not all facts carry the same weight and determining and retaining that which is most relevant seems to be an essential skill[^6].
+  Instead, it is selective: only the relevant bubbles up from some kind of background as needed. It is, perhaps, *instantiated* according to the occasion. This is inevitable, a way to cope with our limitations in capacity as well as bandwidth. Not all facts carry the same weight and determining and retaining that which is most relevant seems to be an essential skill[^6].
 * In a sense consciousness seems to be fleeting. I have often, at the end of a particularly rewarding visit, tried to imprint that 
   reality into my consciousness. I would try to preserve that which I experienced in that moment, the feeling of the wind in my hair, the sounds, the visual impressions and above all that indefinable feeling of contentment, the urge to hang onto the moment, the introspection. Then, just the next day, back home, all of that is just a memory. Surely, not just a memory but an experience that will surface again and again.
 * The preceding points, except the last, can be accurately described by our language skills. There is, however, an aspect 
@@ -270,9 +270,9 @@ Above I hinted that human consciousness possibly goes back to the dawn of humank
 In @1988jaynes he discusses four main themes,
 
 **1.** The nature of consciousness and how it arises from the power of language to make metaphors and 
-analogies. He argues for example, that human beings could, at a different time, speak and understand, learn, solve problems, and do much that we do but without being conscious. *Humans set out on their journey as zombies.*
+analogies. He argues, for example, that human beings could, at a different time, speak and understand, learn, solve problems, and do much that we do but without being conscious. *Humans set out on their journey as zombies.*
 
-**2.** The bicameral mind. This is an early, pre-consciousness, type of mentality and bicameral man could
+**2.** The bicameral mind. This is an early, pre-conscious type of mentality and bicameral man could
 do much that we as conscious beings do. The main difference was that bicameral man operated on auto-pilot,
 > In his everyday life he was a creature of habit, but when some problem arose that needed a new 
 > decision or a more complicated solution than habit could provide, that decision stress was 
@@ -293,13 +293,13 @@ that there is no indication of consciousness in the *Iliad*,
 **4.** The neurological model for the bicameral mind. Simply put, the two hemispheres of the brain 
 reflect the modes of bicameral man, the decision-making part and the follower part.
 
-Should I therefore revisit my earlier premise based on Gilgamesh and early music? Perhaps not, certainly not yet. Jaynes, as far as I know, does not mention Gilgamesh, and Gilgamesh pre-dates the Iliad which he does mention, by roughly 1 300 to 1 500 years. To me, there seems to be ample evidence in Gilgamesh in favour of full consciousness and little, if any, to the contrary.
+Should I therefore revisit my earlier premise based on Gilgamesh and early music? Perhaps not, certainly not yet. Jaynes, as far as I know, does not mention Gilgamesh, and the oldest Gilgamesh poems pre-date the Iliad, which he does mention, by roughly 1 300 years. To me, there seems to be ample evidence in Gilgamesh in favour of full consciousness and little, if any, to the contrary.
 
-Jaynes's timeline is also interesting. He postulates that verbal hallucinations evolved with the evolution of language in the Neanderthal era, i.e. the bicameral era. The oldest extant musical instruments date from around this time. Those ancient flutes have finger holes, an indication that they were used to make music, and not only to produce sound, indicating a deeper subjective experience. 
+Jaynes's timeline is also interesting. He postulates that verbal hallucinations evolved with the evolution of language in the late Ice Age, perhaps from around 40 000 BCE, well before the bicameral era proper began with the first settlements around 9 000 BCE. The oldest extant musical instruments date from around this time. Those ancient flutes have finger holes, an indication that they were used to make music, and not only to produce sound, which suggests a deeper subjective experience. 
 
-Jaynes argues strongly that an entity can be intelligent but not conscious, with no inner, subjective experience. One fascinating example is the immune system, see for example @2021li. It is wickedly clever, capable of recognizing and eliminating invading harmful organisms. But only harmful organisms; benign organisms should be left strictly alone. When things go wrong, if the recognition part fails, debilitating auto-immune diseases can be the result. Particularly nifty is the role that *pattern recognition* plays in the identification of the foreign pathogens. 
+Jaynes argues strongly that an entity can be intelligent but not conscious, with no inner, subjective experience. One fascinating example is the immune system, see for example @2021li. It is wickedly clever, capable of recognising and eliminating invading harmful organisms. But only harmful organisms; benign organisms should be left strictly alone. When things go wrong, if the recognition part fails, debilitating auto-immune diseases can be the result. Particularly nifty is the role that *pattern recognition* plays in the identification of the foreign pathogens. 
 
-The point is, all this activity takes place 'in the dark', without any conscious knowledge on our part, despite being highly intelligent and biology based. As to why it has not developed consciousness, the short answer is perhaps: there has been no evolutionary pressure for the development of consciousness.
+The point is, all this activity takes place 'in the dark', without any conscious knowledge on our part, despite being highly intelligent and biologically based. As to why it has not developed consciousness, the short answer is perhaps: there has been no evolutionary pressure for the development of consciousness.
 
 
 ## Thomas Nagel
@@ -315,7 +315,7 @@ by raising the problem of consciousness. He argues that this is the real challen
 >
 >-- @1974nagel
 
-Nagel calls this the subjective character of experience. He assumed that we all believe that bats have experience. Bats, after all, are mammals like ourselves. But unlike ourselves their sensory apparatus is vastly different from ours - 'a fundamentally *alien* form of life'. A really smart person understands that a bat perceives the world by echolocation, detecting objects by the reflections of their own high-frequency shrieks. That person will understand that the bat brain must somehow correlate the outgoing pulses with the reflected pulses and thereby build a three-dimensional map of its environment. And it must do it precisely and quickly for the bat to be able to avoid obstacles in flight. 
+Nagel calls this the subjective character of experience. He assumed that we all believe that bats have experience. Bats, after all, are mammals like ourselves. But their sensory apparatus is vastly different from ours - 'a fundamentally *alien* form of life'. A really smart person understands that a bat perceives the world by echolocation, detecting objects by the reflections of its own high-frequency shrieks. That person will understand that the bat brain must somehow correlate the outgoing pulses with the reflected pulses and thereby build a three-dimensional map of its environment. And it must do it precisely and quickly for the bat to be able to avoid obstacles in flight. 
 
 The really smart person can understand the mechanics of all of this in detail. But no such person can *experience* what it is like to be a bat. The bat is unable to convey to a human what its experience is as a bat. We can only surmise. As Nagel puts it
 > In so far as I can imagine this (which is not very far), it tells me only what it would be like for 
@@ -323,7 +323,7 @@ The really smart person can understand the mechanics of all of this in detail. B
 > *bat* to be a bat. Yet if I try to imagine this, I am restricted to the resources of my own mind, and 
 > those resources are inadequate to the task.
 
-Do we fare any better with humans? I believe the answer is a qualified, yes. We communicate our inner experience, our consciousness through story-telling, literature, poetry, music, and visual arts. This does not seem to be enough for a complete picture. However hard I try and however much empathy I might possess, it is impossible for me to share the experience of a terminally ill person. 
+Do we fare any better with humans? I believe the answer is a qualified yes. We communicate our inner experience, our consciousness, through story-telling, literature, poetry, music, and visual arts. This does not seem to be enough for a complete picture. However hard I try and however much empathy I might possess, it is impossible for me to share the experience of a terminally ill person. 
 
 This does not mean that one runs into a blank wall trying to get "into the head"[^8] of someone else. For many purposes a functionalist approach, where we anticipate behaviour based on what we perceive to be the inner state of a person, can take one far. A.C. Grayling [@2019grayling] states that a folk-psychological position is quite respectable,
 > One respectable position is that whatever future neuroscience might reveal, the predictive 
@@ -373,7 +373,7 @@ This is the concept of the mind as a conscious experience, and of a mental state
 
 *Psychological concept of the mind*
 
-This is the concept of mind as the causal or explanatory basis for behaviour, characterized by what it does. This part is open to functionalist analysis, and is one for which folk-psychology is a quite respectable approach. 
+This is the concept of mind as the causal or explanatory basis for behaviour, characterised by what it does. This part is open to functionalist analysis, and is one for which folk-psychology is a quite respectable approach. 
 
 These are two distinct and real aspects of the mind with many everyday mental concepts straddling the fence between the phenomenal and psychological. Which aspect is emphasized depends on the problem that one is interested in. Broadly speaking one can think of *first-person* access - the personal experience of a quality - and *third-person* access - think folk-psychology.
 
@@ -392,9 +392,9 @@ science, but [has] not restricted [his] ideas to what contemporary scientists fi
 
 ## Anil Seth
 
-Coming from his background as a neuroscientist, Anil Seth has a different take on consciousness, see for example, @2026pollan, @2026seth, @2026aseth. I'll return to Seth when we finally get to discuss the possibility of AI consciousness. Here I try to give an idea of his main ideas about consciousness.
+Coming from his background as a neuroscientist, Anil Seth has a different take on consciousness, see for example @2026pollan, @2026seth, @2026aseth. I'll return to Seth when we finally get to discuss the possibility of AI consciousness. Here I try to give an idea of his main ideas about consciousness.
 
-For Seth, and here he is not alone, the main function of the brain is to keep the body alive. Therefore central to his thinking is the idea of homeostasis - the self-regulating mechanism that keeps a living organism within its survival parameters. The self is a kind of prediction machine,
+For Seth, and here he is not alone, the main function of the brain is to keep the body alive. Therefore central to his thinking is the idea of homeostasis - the self-regulating mechanism that keeps a living organism within its survival parameters. The brain is a kind of prediction machine,
 > what we consciously perceive depends on the brain's best guesses about what is going on in the world.
 >
 > Conscious experience in this light is a kind of *controlled hallucination*: a top-down inside-out perceptual inference in 
@@ -406,13 +406,13 @@ For Seth, and here he is not alone, the main function of the brain is to keep th
 >
 >-- @2026seth
 
-The idea is something like, the self makes *inferences* about what is, and what is not, part of the body, and inferences about the body's internal physiological condition using both the brain's best guesses and the sensory input. This helps explain why
+The idea is something like this: the brain makes *inferences* about what is, and what is not, part of the body, and inferences about the body's internal physiological condition using both the brain's best guesses and the sensory input. This helps explain why
 > embodied experiences feel the way they do. Experiences of emotion and mood, unlike vision (for example), 
 > are characterized primarily by valence - by things generally going well or going badly.
 >
 >-- @2026seth
 
-This view of the self as a predictive machine has a powerful consequence: if you can predict something, you can control it. And if you can control it, you can help keep the body alive.
+This view of the brain as a prediction machine has a powerful consequence: if you can predict something, you can control it. And if you can control it, you can help keep the body alive.
 
 All of this, argues Seth,
 > becomes inseparable from the materiality of life itself. ... The minimization of prediction error in real brains and 
@@ -429,15 +429,15 @@ Neither Nagel nor Chalmers aims to give a detailed explanation of the nature of 
 
 *Physicalism* is not the only theory but is perhaps the most pertinent in our discussion of the possibility of AI consciousness. 
 
-Physicalism is an attempt to explain how physical processes give rise to consciousness. The assumption is, of course, that consciousness indeed arises from physical processes, i.e. the processes customarily used in science. Nagel pointed out the formidable challenges faced by a physicalist approach. This is also Chalmers' hard problem stated in a different way: How do the brain processes give rise to the mental processes? There are at least three possibilities. First, there is no gap in our understanding, getting rid of the problem altogether. Second, there is an explanatory gap. As we learn more about neurological processes we will be able to explain the gap. Third, there is an ontological gap meaning that the brain and mind are essentially different.
+Physicalism is an attempt to explain how physical processes give rise to consciousness. The assumption is, of course, that consciousness indeed arises from physical processes, i.e. the processes customarily used in science. Nagel pointed out the formidable challenges faced by a physicalist approach. This is also Chalmers' hard problem stated in a different way: How do the brain processes give rise to the mental processes? There are at least three possibilities. First, there is no gap in our understanding, getting rid of the problem altogether. Second, there is an explanatory gap. As we learn more about neurological processes we will be able to explain the gap. Third, there is an ontological gap, meaning that the brain and mind are essentially different.
 
-One can start by hypothesizing that the mental phenomena, in some sense, are just physical events in the brain and central nervous system. This implies that there is no difference between mental events and central nervous system events. Hunger, thirst, cold, pain can all have their origins in the brain, subjectively experienced in the mind. It is easy to find reasons for these sensations. But this does not complete the gamut of qualia, pleasure, desire, compassion, hope, joy, misery, having fun, and so on. In addition, it seems to be restrictive, at least for the time being confined to biological brains and minds, a view subscribed to by Seth. If we want to study the possibility of AI consciousness, "artificial" brains and minds, computers and other not necessarily biological entities need to be included.
+One can start by hypothesising that the mental phenomena, in some sense, are just physical events in the brain and central nervous system. This implies that there is no difference between mental events and central nervous system events. Hunger, thirst, cold, pain can all have their origins in the brain, subjectively experienced in the mind. It is easy to find reasons for these sensations. But this does not complete the gamut of qualia: pleasure, desire, compassion, hope, joy, misery, having fun, and so on. In addition, it seems to be restrictive, at least for the time being confined to biological brains and minds, a view subscribed to by Seth. If we want to study the possibility of AI consciousness, "artificial" brains and minds, computers and other not necessarily biological entities need to be included.
 
-Donald Davidson, see for example @2019grayling, uses the idea of *anomalous monism*. *Monism*, as opposed to *dualism*, refers to the idea that the mind and brain are not separated. For example, he accepts that mental events *cause* physical events - I can think of crossing the street and then I cross the street. Now, all causal events are determined by natural laws. Nevertheless, there are no natural laws governing the causal connections between mental and physical events.
+Donald Davidson, see for example @2019grayling, uses the idea of *anomalous monism*. *Monism*, as opposed to *dualism*, refers to the idea that the mind and brain are not separated. For example, he accepts that mental events *cause* physical events - I can think of crossing the street and then I cross the street. Now, events related as cause and effect fall under strict natural laws. Nevertheless, there are no strict natural laws connecting mental and physical events.
 
-It is this inconsistency that gives rise to the term *anomalous* in *anomalous monism*.
+Davidson resolves this apparent inconsistency by holding that every mental event is also a physical event, but that there are no laws linking mental descriptions to physical ones. Hence *anomalous*, meaning lawless, *monism*.
 
-Recall from an earlier discussion that Chalmers' idea is subtly different. Chalmers is looking for hitherto unknown physicalist principles connecting the mind and body.
+Recall from an earlier discussion that Chalmers' idea is subtly different. Chalmers is looking for hitherto unknown psychophysical laws connecting the mind and body, fundamental laws that go beyond physics. He calls his position *naturalistic dualism*.
 
 This is not just philosophical hogwash but points to a central problem in our thinking going at least back to Descartes:
 > He was unable to explain how a causal connection can obtain between mental and physical phenomena if 
@@ -475,7 +475,7 @@ First arguing about evidence *in favour* of consciousness in large language mode
 [^12]: Chalmers, writing in 2023 [@2023chalmers], confines his discussion to large language models, arguably a subfield of what we more recently came to think of as AI. 
 > that is, (i) large language models have $X$, and (ii) if a system has $X$, then it is conscious.
 
-He then investigates a few candidates for $X$, none of them convincingly indicative of consciousness. I'll treat evidence in favour in more detail later.
+He then investigates a few candidates for $X$, none of them convincingly indicative of consciousness.
 
 Arguing about evidence *against* consciousness, he casts the problem again in the form of a feature $X$ such that
 > (i) these models lack $X$, (ii) if a system lacks $X$, it probably isn't conscious, and give good reasons for (i) and (ii).
@@ -502,20 +502,20 @@ don't understand consciousness. That's a hard problem, as they say.
 
 ## Anil Seth
 
-Where Chalmers does not take a firm stance either for or against consciousness in AI, Seth is more forthcoming. In short, since he argues that mind (software) and brain (hardware) are tightly and necessarily integrated, he concludes that consciousness is restricted to similar integrated systems, unlike the computational systems where there is a clear divide between hard- and software.
+Whereas Chalmers does not take a firm stance either for or against consciousness in AI, Seth is more forthcoming. In short, since he argues that mind (software) and brain (hardware) are tightly and necessarily integrated, he concludes that consciousness is restricted to similar integrated systems, unlike the computational systems where there is a clear divide between hard- and software.
 
 Let's follow his reasoning [@2026seth] in more detail. First, let's see why one might think that AI could be conscious. 
 
-The first reason has everything to do with our *psychological infrastructure*. As humans we know we are conscious and we believe ourselves to be intelligent. The natural conclusion is that intelligence and consciousness go together. But is this so? Julian Jaynes [@1988jaynes] didn't think so, as we saw. Seth sees intelligence as mainly about *doing*, to *get things done*. Consciousness is about *being*, as we saw from our discussion of @1974nagel. Seth identifies three baked-in psychological biases, 
+The first reason has everything to do with our *psychological infrastructure*. As humans we know we are conscious and we believe ourselves to be intelligent. The natural conclusion is that intelligence and consciousness go together. But is this so? Julian Jaynes [@1988jaynes] didn't think so, as we saw. Seth sees intelligence as mainly about *doing*, to *get things done*. Consciousness is about *being*, as we saw from our discussion of @1974nagel. Seth identifies three baked-in psychological biases:
 
-1. *Anthropocentrism.* The tendency to see things through the lens of being human: to take the human example as definitional. 
+1. *Anthropocentrism*. The tendency to see things through the lens of being human: to take the human example as definitional. 
 2. *Human exceptionalism*. This is our habit of putting the human species at the top of the pile.
 3. *Anthropomorphism*. The tendency to project human qualities onto nonhuman things based on superficial similarities. 
 
-For example, one reason many find compelling is *language* [also mentioned by @2023chalmers]. This is, perhaps, a consequence of human exceptionalism - using language to communicate sophisticated ideas like these, was thought to belong exclusively to humans. Having found a similar quality in algorithms, it is easy to imagine the presence of other human qualities such as consciousness. 
+For example, one reason many find compelling is *language* [also mentioned by @2023chalmers]. This is, perhaps, a consequence of human exceptionalism - using language to communicate sophisticated ideas like these was thought to belong exclusively to humans. Having found a similar quality in algorithms, it is easy to imagine the presence of other human qualities such as consciousness. 
 
 
-The language we use is also illuminating. It has become normal to say that an LLM is 'hallucinating' when it spews forth falsehoods. Human hallucinations are conscious experiences that have lost their grip on reality. In terms of Seth's view of consciousness, these are 'uncontrolled perceptions' uncorrected by sensory impulses. If we say that AI systems 'hallucinate', we confer on them a human-like capacity for experience. Seth suggests that we use 'confabulate' instead of 'hallucinate'. 'Confabulate' means, making things up without realizing it. It is about *doing* rather than *experiencing*.
+The language we use is also illuminating. It has become normal to say that an LLM is 'hallucinating' when it spews forth falsehoods. Human hallucinations are conscious experiences that have lost their grip on reality. In terms of Seth's view of consciousness, these are 'uncontrolled perceptions' uncorrected by sensory impulses. If we say that AI systems 'hallucinate', we confer on them a human-like capacity for experience. Seth suggests that we use 'confabulate' instead of 'hallucinate'. 'Confabulate' means making things up without realising it. It is about *doing* rather than *experiencing*.
 
 In my own interaction with Claude I'm (consciously!) careful to never use terms like 'please' or 'thank you' - as if Claude would mind. I don't want to end up in a position where I start to think that I'm dealing with an entity with human-like sensibilities.
 
@@ -581,7 +581,7 @@ The way we think about conscious AI matters for us as well. This affects
 
 Where does that leave us? Can AI agents develop consciousness, both phenomenal and psychological? I honestly don't know, not for sure, and I need surety on this question. If we manage to build machines with full consciousness or allow them to develop consciousness, humans lose control. Is there any reason to believe that these *moral* entities will adhere to higher moral standards than their creators?
 
-Anthropic in their IPO [prospectus](https://www.sec.gov/Archives/edgar/data/2130357/000162828026074338/anthropicpbc-sx1ax3.htm) identifies four broad categories of risk from the systems they want to take forward,
+Anthropic, in their IPO [prospectus](https://www.sec.gov/Archives/edgar/data/2130357/000162828026074338/anthropicpbc-sx1ax3.htm), identifies four broad categories of risk from the systems they want to take forward:
 1. misuse, for example in cyberattacks or biology
 2. concentration of power and wealth
 3. misaligned models acting autonomously
@@ -617,7 +617,7 @@ Add superior intelligence interacting with the physical world and, possibly, dri
 [^14]: The prospectus does not use the word consciousness, but it does acknowledge 'emerging debates regarding whether AI systems possess or could develop forms of sentience or moral status', and refers to 'the way we approach model sentience and moral status'.
 
 
-
+I started the discussion with the existential angst experienced by Gilgamesh facing his own mortality. From those ancient times to today, a central question, perhaps *the* central question, is: how do we cheat death? It remains unanswered.
 
 
 
