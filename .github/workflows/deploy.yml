@@ -23,10 +23,12 @@ concurrency:
   group: 'pages'
   cancel-in-progress: false
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  # Build and deploy are separate jobs, as the deploy-pages README recommends.
+  # In one job, deploy-pages looked up the artifact in the same second the
+  # upload finished, before GitHub had registered it, and failed with
+  # 'No artifacts named "github-pages" were found'. A dependent job only
+  # starts once the build job, and its upload, have completed.
+  build:
     runs-on: ubuntu-latest
     steps:
       # Current majors of each action, all of which run on Node 24. The earlier
@@ -55,6 +57,13 @@ jobs:
         uses: actions/upload-pages-artifact@v5
         with:
           path: './_build/html'
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
