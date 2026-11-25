@@ -250,6 +250,8 @@ The following are some of the ideas that come to mind:
   reality into my consciousness. I would try to preserve that which I experienced in that moment, the feeling of the wind in my hair, the sounds, the visual impressions and above all that indefinable feeling of contentment, the urge to hang onto the moment, the introspection. Often, even the next day, back home, all of that is just a memory. Perhaps not just a memory, but an experience that can surface again and again. Yes, memory is part of consciousness and can have a strong qualitative component, as when one experiences something like nostalgia or regret.
 * The preceding points, except the last, can be described by our language skills. There is, however, an aspect 
   of our consciousness where our vocabulary is inadequate. Is it possible to describe why an experience is *just so*? And not any other way. How does one articulate this, *just so*? It is not just my limited language skills that prevented me from explaining my inner feelings in the previous point.
+* We perceive the world from the vantage point of our own personal consciousness. There is no getting outside consciousness.
+  For us, consciousness *is*, quite likely, *reality*. This implies that one has to be mindful of the way one's consciousness is formed.
 [^12]: Albert Einstein formulated it as follows, 
     > ...my intuition was not strong enough in the field of mathematics in order to differentiate clearly the 
     > fundamentally important, that which is really basic, from the rest of the more or less dispensable erudition.
@@ -305,7 +307,20 @@ Should I therefore revisit my earlier premise of consciousness going back to the
 
 Jaynes's timeline is also interesting. He postulates that verbal hallucinations evolved with the evolution of language in the late Ice Age, perhaps from around 40 000 BCE, well before the bicameral era proper began with the first settlements around 9 000 BCE. The oldest extant musical instruments date from around this time. Those ancient flutes have finger holes, an indication that they were used to make music, and not only to produce sound, which suggests a deeper subjective experience. 
 
+```{figure} ./figures/immune.jpg
+:alt: The immune system
+:width: 400px
+:align: left
+:class: bg-primary
+
+The immune system at work.
+```
+
 Jaynes argues strongly that an entity can be intelligent but not conscious, with no inner, subjective experience. The immune system seems to be a fascinating example. It is wickedly clever, capable of recognising and eliminating invading harmful organisms. But only harmful organisms; benign organisms should be left strictly alone. When things go wrong, if the recognition part fails, debilitating auto-immune diseases can be the result. Particularly nifty is the role that *pattern recognition* plays in the identification of the foreign pathogens! See, for example, @2021li. 
+
+The figure is from the Linus Pauling Institute at Oregon State University and shows [phagocytosis by an immune cell](https://lpi.oregonstate.edu/mic/health-disease/immunity)[^14].
+[^14]: The figure shows a macrophage, a specialised white blood cell that responds to invading pathogens by engulfing them (phagocytosis) and releasing pro-inflammatory cytokines. From the accompanying description:
+    > Microorganisms like bacteria express pathogen-associated molecular patterns (PAMPs), which are recognized by pattern recognition receptors on the macrophage surface.
 
 The point is, all this activity takes place 'in the dark', without any conscious knowledge on our part, despite being highly intelligent and biologically based. As to why it has not developed consciousness, the short answer is perhaps: there has been no evolutionary pressure for the development of consciousness.
 
@@ -333,12 +348,12 @@ The smart person can understand the mechanics of all of this in detail. But no s
 
 Do we fare any better with humans? I believe the answer is a qualified yes. Even if it is limited, we do communicate our inner experience, our consciousness, through story-telling, literature, poetry, music, visual arts and so on. This does not seem to be enough for a complete picture. However hard I try and however much empathy I might possess, it is impossible for me to share the experience of a terminally ill person, for example. 
 
-This does not mean that one runs into a blank wall trying to get "into the head"[^14] of someone else. For many purposes a functionalist approach, where we anticipate behaviour based on what we perceive to be the inner state of a person, can take one far. A.C. Grayling [@2019grayling] states that a folk-psychological position is quite respectable,
+This does not mean that one runs into a blank wall trying to get "into the head"[^15] of someone else. For many purposes a functionalist approach, where we anticipate behaviour based on what we perceive to be the inner state of a person, can take one far. A.C. Grayling [@2019grayling] states that a folk-psychological position is quite respectable,
 > One respectable position is that whatever future neuroscience might reveal, the predictive 
 > and explanatory utility of folk-psychological concepts still remains, and rather impressively so.
 
 
-[^14]: I recall attending a public lecture by Thomas Kuhn in January 1988, where he said that he tried to get into the head of Aristotle. Perhaps I now understand what he meant, even if it is an impossible task (as he acknowledged himself).
+[^15]: I recall attending a public lecture by Thomas Kuhn in January 1988, where he said that he tried to get into the head of Aristotle. Perhaps I now understand what he meant, even if it is an impossible task (as he acknowledged himself).
 
 When we try to understand our own consciousness, we immediately run into trouble: we have to use our consciousness to understand our consciousness, a self-referential undertaking. It has been likened to using an eye to inspect itself! Let's see what David Chalmers says about it.
 
@@ -367,11 +382,11 @@ The "hard" problem of consciousness is, well, hard. Why can I wonder about my co
 
 Qualitative feelings like these are also known as phenomenal qualities, or *qualia* for short.
 > The problem of explaining these phenomenal qualities is just the problem of explaining
-> consciousness. This is the really hard part of the mind-body problem[^15].
+> consciousness. This is the really hard part of the mind-body problem[^16].
 >
 >-- @1996chalmers
 
-[^15]: This is the problem that stumped Descartes, see @2019grayling.
+[^16]: This is the problem that stumped Descartes, see @2019grayling.
 
 Chalmers therefore distinguishes between the phenomenal and the psychological concepts of the *mind*, corresponding to the hard and easy problems mentioned above. 
 
@@ -379,9 +394,9 @@ Chalmers therefore distinguishes between the phenomenal and the psychological co
 : This is the concept of the mind as a conscious experience, and of a mental state as a consciously experienced mental state. In this state, the mind is characterised by the way it *feels*. This is, as said before, the really tough one to understand and Chalmers' main interest.
 
 *Psychological concept of the mind*
-: This is the concept of mind as the causal or explanatory basis for behaviour, characterised by what it does. This part is open to functionalist analysis[^16], and is one for which folk-psychology is a quite respectable approach.
+: This is the concept of mind as the causal or explanatory basis for behaviour, characterised by what it does. This part is open to functionalist analysis[^17], and is one for which folk-psychology is a quite respectable approach.
 
-[^16]: Functionalism says that mental states are to be identified by the *causal* roles they play, irrespective of what carries out the causal operations [@2019grayling].
+[^17]: Functionalism says that mental states are to be identified by the *causal* roles they play, irrespective of what carries out the causal operations [@2019grayling].
 
 These are two distinct and real aspects of the mind with many everyday mental concepts straddling the fence between the phenomenal and psychological. Which aspect is emphasised depends on the problem that one is interested in. Broadly speaking, one can think of *first-person* access - the personal experience of a quality - and *third-person* access - think folk-psychology.
 
@@ -430,8 +445,8 @@ All of this, argues Seth,
 Seth therefore argues that consciousness is tightly coupled with biological matter, the 'material basis'.
 
 
-# Physicalism[^17]
-[^17]: The discussion in this section is based on @2019grayling.
+# Physicalism[^18]
+[^18]: The discussion in this section is based on @2019grayling.
 
 Neither Nagel nor Chalmers aims to give a detailed explanation of the nature of consciousness. Nagel highlights the challenge that any physical theory has to address. Chalmers offers only a tentative, speculative theory of his own. He is more interested in picking existing theories apart and, most importantly, in providing a way of thinking about consciousness.
 
@@ -450,12 +465,12 @@ Recall from an earlier discussion that Chalmers' idea is subtly different. Chalm
 This is not just philosophical hogwash but points to a central problem in our thinking going back at least to Descartes:
 > He was unable to explain how a causal connection can obtain between mental and physical phenomena if 
 > they are wholly different substances. Any view that says that mental phenomena cannot be reduced to
-> physical phenomena, and which is not epiphenomenalist[^18] has to find some account of how they connect.
+> physical phenomena, and which is not epiphenomenalist[^19] has to find some account of how they connect.
 > Such an account is obviously impossible on the premise that no connecting laws exist.
 >
 >-- @2019grayling
 
-[^18]: 
+[^19]: 
     > The view that mental phenomena are merely by-products or incidental effects of the far more 
     > significant physical effects in the brain that cause them.
     > 
@@ -479,8 +494,8 @@ We arrive at long last at a point where we can begin to think about the possibil
 
 ## David Chalmers
 
-First arguing about evidence *in favour* of consciousness in large language models[^19], @2023chalmers asks about the possibility of a feature $X$ that serves as an indicator for consciousness in large language models:
-[^19]: Chalmers, writing in 2023 [@2023chalmers], confines his discussion to large language models, arguably a subfield of what we more recently came to think of as AI. 
+First arguing about evidence *in favour* of consciousness in large language models[^20], @2023chalmers asks about the possibility of a feature $X$ that serves as an indicator for consciousness in large language models:
+[^20]: Chalmers, writing in 2023 [@2023chalmers], confines his discussion to large language models, arguably a subfield of what we more recently came to think of as AI. 
 > that is, (i) large language models have $X$, and (ii) if a system has $X$, then it is conscious.
 
 He then investigates a few candidates for $X$, none of them convincingly indicative of consciousness.
@@ -538,8 +553,8 @@ Then there is the temptation of the 'techno-rapture'.
 >
 >-- @2026seth
 
-This idea is pervasive in Silicon Valley[^20].
-[^20]: Seth makes the connection himself, immediately after the passage quoted above: pronouncements of imminent machine consciousness 'seem more common within the technorati than outside of it', and the idea that there is something 'semi-magical' about AI may help 'justify the sky-high salaries and levels of investment now seen in Silicon Valley' [@2026seth]. For a first-hand account of transhumanists' hopes of escaping death through technology, see @2017oconnell.
+This idea is pervasive in Silicon Valley[^21].
+[^21]: Seth makes the connection himself, immediately after the passage quoted above: pronouncements of imminent machine consciousness 'seem more common within the technorati than outside of it', and the idea that there is something 'semi-magical' about AI may help 'justify the sky-high salaries and levels of investment now seen in Silicon Valley' [@2026seth]. For a first-hand account of transhumanists' hopes of escaping death through technology, see @2017oconnell.
 
 Our biases aside, how likely is it that AI will develop consciousness? Not very likely, according to Seth. 
 
@@ -617,12 +632,12 @@ Anthropic acknowledges concerns that sufficiently advanced AI systems could 'pos
 
 
 
-Add superior intelligence interacting with the physical world and, possibly, driven by the same or similar consciousness as in humans[^21], and Anthropic itself tells us that such systems could threaten humanity. We should take them at their word. They are, after all, one of only a handful of transformative companies. And if we do, 
+Add superior intelligence interacting with the physical world and, possibly, driven by the same or similar consciousness as in humans[^22], and Anthropic itself tells us that such systems could threaten humanity. We should take them at their word. They are, after all, one of only a handful of transformative companies. And if we do, 
 > Of what use is a new treatment for cancer if the remaining scraps of humanity are living in an A.I.-generated wasteland?
 >
 >-- @2026french
 
-[^21]: The prospectus does not use the word consciousness, but it does acknowledge 'emerging debates regarding whether AI systems possess or could develop forms of sentience or moral status', and refers to 'the way we approach model sentience and moral status'.
+[^22]: The prospectus does not use the word consciousness, but it does acknowledge 'emerging debates regarding whether AI systems possess or could develop forms of sentience or moral status', and refers to 'the way we approach model sentience and moral status'.
 
 
 I started the discussion with the existential angst experienced by Gilgamesh facing his own mortality. From those ancient times to today, a central question, perhaps *the* central question, is: how do we cheat death? It remains unanswered.
